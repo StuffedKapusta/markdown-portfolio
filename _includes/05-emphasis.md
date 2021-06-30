@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I'm a *technical* writer, but in name only. I spend most of my working hours researching and creating word documents, instead of **programming** and browsing **github**. However, as I see many opportunities with real tech writer knowledge I'm praticing the necessary skills to become  **daily** (well more like *weekly* but let's keep this between us. I don't want to seem lazy 😄)
