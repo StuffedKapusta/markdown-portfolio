@@ -1,0 +1,10 @@
+- Sleeping
+- eating 
+- pets
+  - Micike 
+  - Bambika 
+#### Hobbies
+1. Xbox
+2. Movies
+3. Learning
+4. Reading
