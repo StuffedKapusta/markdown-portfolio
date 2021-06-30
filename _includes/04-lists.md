@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+- Sleeping
+- eating 
+- pets
+  - Micike 
+  - Bambika 
+#### Hobbies
+1. Xbox
+2. Movies
+3. Learning
+4. Reading
